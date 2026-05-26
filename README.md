@@ -1,4 +1,3 @@
-```markdown
 # Gestión de precios en menú de restaurante 🍽️
 
 ## 📌 Descripción
@@ -19,9 +18,9 @@ El objetivo es implementar un programa en **Python** que gestione los precios de
   - Aplicar descuento si cumple condiciones.
   - Mantener precio base si no cumple.
 - **Salida:** Mostrar resultados en formato tabular.
-
-## 📂 Estructura del proyecto
 ```
+## 📂 Estructura del proyecto
+
 ├── codigo.py          # Código fuente en Python
 ├── README.md          # Documentación del proyecto
 ```
