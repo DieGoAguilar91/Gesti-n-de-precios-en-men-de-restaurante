@@ -48,5 +48,3 @@ El objetivo es implementar un programa en **Python** que gestione los precios de
 - **Programa:** Ingeniería en Sistemas – UNAD  
 - **Grupo:** 213022A_2201  
 ```
-
----
